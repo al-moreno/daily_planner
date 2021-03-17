@@ -18,7 +18,7 @@ You may open the application by going to:
 
 Alternativly, you may view the code by acceing:
 
-(https://github.com/al-moreno/daily_planner)
+https://github.com/al-moreno/daily_planner)
 
 
 
