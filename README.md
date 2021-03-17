@@ -14,11 +14,11 @@ To access this application you will require a browser of your choice.
 
 You may open the application by going to:
 
-[applicaiton](https://al-moreno.github.io/daily_planner/)
+(https://al-moreno.github.io/daily_planner/)
 
 Alternativly, you may view the code by acceing:
 
-[code](https://github.com/al-moreno/daily_planner)
+(https://github.com/al-moreno/daily_planner)
 
 
 
