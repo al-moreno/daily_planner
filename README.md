@@ -2,7 +2,7 @@
 
 ## Description
 
-Here is a work day scheduler application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by JQuery. I have not yet mastered Javascript and therefore do not yet have a full understanding of JQuary.
+Here is a work day scheduler application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by JQuery. I have not yet mastered Javascript DOM or JQuary so you will not see alot of that. 
 
 Moment.js [moment.js](https://momentjs.com/) library was utilized to work with date and time. 
 
@@ -14,11 +14,11 @@ To access this application you will require a browser of your choice.
 
 You may open the application by going to:
 
-(https://al-moreno.github.io/daily_planner/)
+https://al-moreno.github.io/daily_planner/
 
 Alternativly, you may view the code by acceing:
 
-https://github.com/al-moreno/daily_planner)
+https://github.com/al-moreno/daily_planner
 
 
 

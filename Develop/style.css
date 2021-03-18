@@ -3,30 +3,18 @@
 body {
   background-image: url("pexels-la-miko-3616764.jpg");
   background-size: cover;
-  font-family: 'Open Sans', sans-serif;
   font-size: 16px;
-  line-height: 1;
+  font-family: 'Sawarabi Mincho', sans-serif;
 }
 
-textarea{
-  background: transparent;
-  border: none;
-  resize: none;
-  color: #000000;
-  border-left: 1px solid rgb(66, 40, 40);
-  padding: 10px;
-}
+
+
 /* styling of various classes */
+
 .jumbotron {
   text-align: center;
   background-color: transparent;
-  color: rgb(66, 40, 40);
   border-radius: 0;
-  border-bottom: 10px solid rgb(66, 40, 40);
-}
-
-.description{
-  white-space: pre-wrap;
 }
 
 .time-block{
@@ -34,62 +22,25 @@ textarea{
   border-radius: 15px;
 }
 
-.row {
-  white-space: pre-wrap;
-  height: 80px;
-  border-top: 1px solid white;;
+.currentTime {
+  background-color: #e7d0cf;
+  color: white;
 }
-
-.hour {
-  background-color: #ffffff;
-  color: rgb(66, 40, 40);;
-  border-top: 1px dashed rgb(66, 40, 40);
-
-}
-
-.past {
+.pastTime{
   background-color: #d3d3d3;
   color: white;
 }
-
-.present {
-  background-color: #e4bcba;
+.futureTime{
+  background-color: #d7e9d7;
   color: white;
-}
-
-.future {
-  background-color: #afd4af;
-  color: white;
-}
-
-.saveBtn {
-  box-shadow: 10px 10px 10px rgb(66, 40, 40);
-    background: none;
-    border-left: 1px solid rgb(66, 40, 40);
-    color: white;
 }
 /* Hover effect styling on button */
-.saveBtn i:hover {
-  font-size: 20px;
+button:hover {
+  font-size: 18px;
   transition: all .3s ease-in-out;
 }
 
-/* Styling added for save icon and container */
-
-
-.fa-save {
-  padding: 10px;
-
-}
-
-.container {
-margin-bottom: 10%;
-}
 /*Customer styles*/
-
-.quote{
-  padding:3em;
-}
 .lead{
-  padding:1em;
+  padding:2em;
 }
